@@ -74,13 +74,13 @@ I am passionate about:
 
 ## 🏆 Featured Projects
 
-### [StudyBuddy - AI Learning Platform](https://github.com/AdityaDeshpande)
+### [StudyBuddy - AI Learning Platform](https://github.com/aditya191201/StudyBuddy)
 AI-powered study platform that transforms educational videos into interactive flashcards, mind maps, and quizzes using Google Speech-to-Text, Gemini AI, and LangChain. Built with Next.js, TypeScript, Flask, and MongoDB.
 
-### [Doubt-Stack Exchange](https://github.com/AdityaDeshpande)
+### [Doubt-Stack Exchange](https://github.com/aditya191201/DoubtStackFrontend)
 Full-stack Q&A forum with JWT authentication, 2FA, and rate limiting. Features server-side caching, pagination, and optimized MongoDB queries. Built with React, Next.js, TypeScript, and Express.
 
-### [Image Processing Application](https://github.com/AdityaDeshpande)
+### [Image Processing Application](https://github.com/aditya191201)
 Java Swing application implementing MVC pattern with 100% test coverage. Supports image manipulation features including rotation, resizing, color correction, and histogram equalization.
 
 ## 📊 GitHub Stats
